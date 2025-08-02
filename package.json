@@ -1,0 +1,20 @@
+{
+  "name": "contgr2-mera-campoverde-daniel-fernando",
+  "version": "1.0.0",
+  "description": "Calculadora con librerías separadas para operaciones matemáticas básicas",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculadora",
+    "matematicas", 
+    "suma",
+    "resta",
+    "multiplicacion",
+    "division"
+  ],
+  "author": "Daniel Fernando Mera Campoverde",
+  "license": "MIT"
+}
